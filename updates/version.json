@@ -1,5 +1,5 @@
 {
-  "version": "3.4.3",
+  "version": "3.5.0",
   "url": "https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v3.4.3/UtilidadesTS_3.4.3.exe",
-  "notes": "Corregido un problema en el visor de mecanizados del XML Manager."
+  "notes": "Nuevo módulo Extractor TOP (BETA), para extraccion de datos de ficheros TOP."
 }
