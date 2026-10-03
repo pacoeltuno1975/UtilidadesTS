@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3",
-  "url": "https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v3.8.3/UtilidadesTS_3.8.3.exe",
-  "notes": "Versión mejorada del nuevo módulo TOP Extractor, para extraccion de datos de ficheros TOP."
+  "version": "3.8.4",
+  "url": "https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v3.8.4/UtilidadesTS_3.8.4.exe",
+  "notes": "Mejora del visor de mecanizado XML, con identificación visual de los cantos canteados en la pieza."
 }
