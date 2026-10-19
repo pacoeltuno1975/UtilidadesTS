@@ -6,7 +6,7 @@ Suite de utilidades para trabajar con archivos XML de TopSolid / Ardis.
 
 Descargar instalador:
 
-https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v3.3.0/UtilidadesTS_Setup.exe
+https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v4.0.0/UtilidadesTS_Setup_4.0.0.exe
 
 ## Actualizaciones
 
