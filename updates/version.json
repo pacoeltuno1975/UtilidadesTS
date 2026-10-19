@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4",
-  "url": "https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v3.8.4/UtilidadesTS_3.8.4.exe",
-  "notes": "Mejora del visor de mecanizado XML, con identificación visual de los cantos canteados en la pieza."
+  "version": "4.0.0",
+  "url": "https://github.com/pacoeltuno1975/UtilidadesTS/releases/download/v4.0.0/UtilidadesTS.exe",
+  "notes": "Nueva interfaz de Utilidades TS, rediseño de herramientas, TOP Extractor y XML Manager, TOP Inspector DEV renovado y nuevo icono corporativo."
 }
